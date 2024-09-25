@@ -1,0 +1,6 @@
+Django==4.1.3
+djangorestframework==3.13.1
+psycopg2==2.9.3  # PostgreSQL adapter for Python
+djangorestframework-simplejwt==5.2.2  # JWT authentication for Django
+django-cors-headers==3.11.0  # For handling CORS (Cross-Origin Resource Sharing)
+Pillow==9.2.0  # For image processing (if required)
